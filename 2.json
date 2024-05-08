@@ -1,0 +1,97 @@
+[
+  {
+    "Loja": 2,
+    "Nota": 4,
+    "Avaliação": "O carro era confortável e espaçoso, ideal para minha viagem em família."
+  },
+  {
+    "Loja": 1,
+    "Nota": 5,
+    "Avaliação": "Atendimento impecável e carro em excelente estado. Recomendo!"
+  },
+  {
+    "Loja": 3,
+    "Nota": 3,
+    "Avaliação": "O carro atendeu às minhas necessidades, mas o processo de locação foi um pouco burocrático."
+  },
+  {
+    "Loja": 2,
+    "Nota": 2,
+    "Avaliação": "O carro apresentava alguns problemas mecânicos que me causaram transtornos durante a viagem." 
+  },
+  {
+    "Loja": 1,
+    "Nota": 4,
+    "Avaliação": "Boa relação custo-benefício. O carro era econômico e o atendimento foi cordial."
+  },
+  {
+    "Loja": 3,
+    "Nota": 1,
+    "Avaliação": "Péssima experiência! O carro estava sujo e com mau cheiro. Não recomendo esta loja."
+  },
+  {
+    "Loja": 2,
+    "Nota": 5,
+    "Avaliação": "Adorei o carro! Era novo, moderno e muito confortável. O atendimento também foi excelente."
+  },
+  {
+    "Loja": 1,
+    "Nota": 3,
+    "Avaliação": "O carro estava um pouco velho, mas funcionou bem durante a viagem."
+  },
+  {
+    "Loja": 3,
+    "Nota": 2,
+    "Avaliação": "O tempo de espera para retirar o carro foi muito longo. O atendimento deixou a desejar."
+  },
+  {
+    "Loja": 2,
+    "Nota": 4,
+    "Avaliação": "O processo de locação foi rápido e fácil. O carro era espaçoso e ideal para minha mudança."
+  },
+  {
+    "Loja": 1,
+    "Nota": 5,
+    "Avaliação": "Excelente experiência! O carro era novo e estava impecável. A equipe foi muito atenciosa." 
+  },
+  {
+    "Loja": 3,
+    "Nota": 3,
+    "Avaliação": "O carro atendeu às minhas necessidades básicas, mas o preço poderia ser mais competitivo."
+  },
+  {
+    "Loja": 2,
+    "Nota": 1,
+    "Avaliação": "Fiquei muito decepcionado com o serviço. O carro quebrou no meio da viagem e a loja não ofereceu nenhum suporte." 
+  },
+  {
+    "Loja": 1,
+    "Nota": 4,
+    "Avaliação": "O carro era econômico e confortável. O atendimento foi eficiente."
+  },
+  {
+    "Loja": 3,
+    "Nota": 2,
+    "Avaliação": "O carro estava com alguns arranhões e amassados. A limpeza também deixava a desejar."
+  },
+  {
+    "Loja": 2,
+    "Nota": 5,
+    "Avaliação": "Recomendo esta loja! O carro era perfeito para minha viagem e o atendimento foi excepcional."
+  },
+  {
+    "Loja": 1,
+    "Nota": 3,
+    "Avaliação": "A localização da loja é um pouco inconveniente, mas o carro era bom."
+  },
+  {
+    "Loja": 3,
+    "Nota": 4,
+    "Avaliação": "O processo de locação foi fácil e o carro estava em boas condições."
+  },
+  {
+    "Loja": 2,
+    "Nota": 2,
+    "Avaliação": "O atendimento foi desorganizado e o carro apresentava alguns problemas elétricos."
+  }
+]
