@@ -1,97 +1,188 @@
 [
-  {
-    "Loja": 3,
-    "Nota": 5,
-    "Avaliação": "Surpreendido com o excelente serviço! Carro novo, limpo e o atendimento foi excepcional."
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "O atendimento foi rápido e eficiente."},
+  {"Loja": "Loja B", "Nota": 5, "Avaliação": "Os preços estão acima da média."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Super recomendo! Carros novos e atendimento impecável."},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "Boa variedade de veículos, mas o processo de locação é um pouco burocrático."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Carros limpos e bem conservados."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "Poderiam melhorar o tempo de espera."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Experiência perfeita do início ao fim."},
+  {"Loja": "Loja B", "Nota": 8, "Avaliação": "Atendimento cordial e eficiente."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Boa localização e fácil acesso."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "Carros novos e confortáveis."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Recomendo a todos que precisam alugar um carro."},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "O site poderia ser mais intuitivo para fazer reservas."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Atendimento excepcional e carros de qualidade."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "Falta de opções de carros econômicos."},
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Processo de locação rápido e sem complicações."},
+  {"Loja": "Loja B", "Nota": 5, "Avaliação": "Tive problemas com a cobrança."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Ótima relação custo-benefício."},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "O carro que aluguei estava com o tanque pela metade."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "A melhor locadora que já utilizei!"},
+  {"Loja": "Loja B", "Nota": 8, "Avaliação": "Bons carros, mas poderiam oferecer mais promoções."},
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Equipe atenciosa e prestativa."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "O processo de devolução foi rápido."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam ter mais opções de carros automáticos."},
+  {"Loja": "Loja B", "Nota": 10, "Avaliação": "Experiência excelente, recomendo!"},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Carros sempre limpos e cheirosos."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "O atendimento telefônico deixa a desejar."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Superou minhas expectativas!"},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "Os preços dos adicionais são um pouco caros."},
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Localização conveniente e fácil de encontrar."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "Boa variedade de veículos para escolher."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Processo de reserva online simples e eficiente."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "Tive que esperar um pouco para ser atendido."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Atendimento personalizado e de alta qualidade."}, 
+  {"Loja": "Loja B", "Nota": 8, "Avaliação": "Os carros são revisados e seguros."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam oferecer mais opções de seguros."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "O processo de locação foi transparente e sem surpresas."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Equipe simpática e prestativa."},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "A loja poderia ser um pouco mais moderna."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Recomendo a Loja A para todos!"},
+  {"Loja": "Loja B", "Nota": 5, "Avaliação": "Tive problemas com o GPS do carro."}, 
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Ótima experiência, voltarei a alugar na Loja A."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "A devolução do carro foi rápida e fácil."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam ter mais opções de carros para viagens longas."},
+  {"Loja": "Loja B", "Nota": 10, "Avaliação": "Atendimento impecável e carros de qualidade."},
+ {"Loja": "Loja A", "Nota": 9, "Avaliação": "Carros bem cuidados e com manutenção em dia."},
+  {"Loja": "Loja B", "Nota": 8, "Avaliação": "O atendimento foi bom, mas o preço poderia ser melhor."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Superou minhas expectativas em todos os aspectos."},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "Boa localização, mas o estacionamento é pequeno."},
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Processo de locação simples e rápido."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "Tive que esperar um pouco para retirar o carro."}, 
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Atendimento amigável e profissional."},
+  {"Loja": "Loja B", "Nota": 5, "Avaliação": "O carro que aluguei tinha alguns arranhões."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "A melhor locadora da cidade, sem dúvida!"},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "Os preços são competitivos, mas poderiam oferecer mais descontos."},
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Ótima variedade de veículos para diferentes necessidades."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "O carro estava limpo e cheiroso."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam melhorar o sistema de reservas online."},
+  {"Loja": "Loja B", "Nota": 10, "Avaliação": "Experiência fantástica, recomendo a Loja B!"},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Equipe eficiente e atenciosa."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "O atendimento por telefone foi demorado."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Carros novos e com tecnologia de ponta."}, 
+  {"Loja": "Loja B", "Nota": 8, "Avaliação": "O processo de devolução foi simples e rápido."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam oferecer mais opções de pagamento."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "Atendimento personalizado e eficiente."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Recomendo a Loja A para quem busca qualidade e bom atendimento."},
+  {"Loja": "Loja B", "Nota": 5, "Avaliação": "Tive problemas com o ar condicionado do carro."}, 
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Experiência perfeita, voltarei com certeza!"},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "Boa variedade de carros, mas o atendimento poderia ser mais ágil."},
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Ótima localização e fácil acesso."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "Os carros são bem equipados e confortáveis."}, 
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "O site poderia ser mais informativo sobre os modelos de carros."},
+  {"Loja": "Loja B", "Nota": 10, "Avaliação": "Superou minhas expectativas, recomendo a todos!"},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Atendimento rápido e eficiente, mesmo em horários de pico."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "A loja poderia ser mais organizada."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Carros impecáveis e atendimento de primeira."},
+  {"Loja": "Loja B", "Nota": 8, "Avaliação": "Boa relação custo-benefício."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam oferecer mais opções de carros econômicos."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "O processo de locação foi transparente e sem taxas escondidas."}, 
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Equipe simpática e prestativa."},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "A loja poderia ser mais moderna e aconchegante."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Recomendo a Loja A para quem busca qualidade e bom atendimento."},
+  {"Loja": "Loja B", "Nota": 5, "Avaliação": "Tive problemas com o sistema de som do carro."}, 
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Ótima experiência, voltarei a alugar na Loja A."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "A devolução do carro foi rápida e fácil."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam ter mais opções de carros para viagens longas."},
+  {"Loja": "Loja B", "Nota": 10, "Avaliação": "Atendimento impecável e carros de qualidade."},
+ {"Loja": "Loja A", "Nota": 8, "Avaliação": "Atendimento cortês e eficiente."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "Carros novos e bem conservados."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Experiência de locação perfeita!"},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "Boa variedade de veículos, mas o preço é um pouco alto."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Processo de locação rápido e sem complicações."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "Tive que esperar um pouco para ser atendido."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam oferecer mais opções de carros econômicos."},
+  {"Loja": "Loja B", "Nota": 8, "Avaliação": "O carro estava limpo e com o tanque cheio."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Atendimento excepcional e carros de qualidade."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "Processo de devolução rápido e eficiente."},
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Ótima localização e fácil acesso."},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "O site poderia ser mais intuitivo para fazer reservas."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Recomendo a Loja A para quem precisa alugar um carro."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "Tive problemas com a cobrança."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "A melhor locadora que já utilizei!"},
+  {"Loja": "Loja B", "Nota": 8, "Avaliação": "Bons carros, mas poderiam oferecer mais promoções."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam ter mais opções de carros automáticos."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "O processo de locação foi transparente e sem surpresas."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Equipe simpática e prestativa."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "A loja poderia ser um pouco mais moderna."},
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Ótima experiência, voltarei a alugar na Loja A."},
+  {"Loja": "Loja B", "Nota": 10, "Avaliação": "Atendimento impecável e carros de qualidade."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam ter mais opções de carros para viagens longas."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "A devolução do carro foi rápida e fácil."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Carros bem cuidados e com manutenção em dia."},
+  {"Loja": "Loja B", "Nota": 8, "Avaliação": "O atendimento foi bom, mas o preço poderia ser melhor."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Superou minhas expectativas em todos os aspectos."},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "Boa localização, mas o estacionamento é pequeno."},
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Processo de locação simples e rápido."},
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "Tive que esperar um pouco para retirar o carro."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Atendimento amigável e profissional."},
+  {"Loja": "Loja B", "Nota": 5, "Avaliação": "O carro que aluguei tinha alguns arranhões."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "A melhor locadora da cidade, sem dúvida!"},
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "Os preços são competitivos, mas poderiam oferecer mais descontos."},
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Ótima variedade de veículos para diferentes necessidades."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "O carro estava limpo e cheiroso."},
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam melhorar o sistema de reservas online."}, 
+  {"Loja": "Loja B", "Nota": 10, "Avaliação": "Experiência fantástica, recomendo a Loja B!"},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Equipe eficiente e atenciosa."}, 
+  {"Loja": "Loja B", "Nota": 6, "Avaliação": "O atendimento por telefone foi demorado."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Carros novos e com tecnologia de ponta."},
+  {"Loja": "Loja B", "Nota": 8, "Avaliação": "O processo de devolução foi simples e rápido."}, 
+  {"Loja": "Loja A", "Nota": 7, "Avaliação": "Poderiam oferecer mais opções de pagamento."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "Atendimento personalizado e eficiente."},
+  {"Loja": "Loja A", "Nota": 9, "Avaliação": "Recomendo a Loja A para quem busca qualidade e bom atendimento."}, 
+  {"Loja": "Loja B", "Nota": 5, "Avaliação": "Tive problemas com o ar condicionado do carro."},
+  {"Loja": "Loja A", "Nota": 10, "Avaliação": "Experiência perfeita, voltarei com certeza!"}, 
+  {"Loja": "Loja B", "Nota": 7, "Avaliação": "Boa variedade de carros, mas o atendimento poderia ser mais ágil."}, 
+  {"Loja": "Loja A", "Nota": 8, "Avaliação": "Ótima localização e fácil acesso."},
+  {"Loja": "Loja B", "Nota": 9, "Avaliação": "Os carros são bem equipados e confortáveis."} ,
+ {
+    "Loja": "Loja A",
+    "Nota": 10,
+    "Avaliação": "A Loja A superou todas as minhas expectativas! O atendimento foi excepcional, com uma equipe extremamente profissional, cortês e prestativa. O processo de locação foi rápido e sem burocracias, e o carro estava impecável, limpo e com manutenção em dia. Recomendo a Loja A para todos que buscam uma experiência de locação de veículos perfeita!"
   },
   {
-    "Loja": 1,
-    "Nota": 4,
-    "Avaliação": "O carro era espaçoso e confortável, ideal para minha viagem. O atendimento foi cordial."
+    "Loja": "Loja A",
+    "Nota": 10,
+    "Avaliação": "Fiquei impressionado com a qualidade dos serviços da Loja A. Desde o primeiro contato até a devolução do veículo, tudo foi impecável. A equipe demonstrou conhecimento, profissionalismo e um genuine interesse em garantir minha satisfação. O carro estava em perfeitas condições, e o processo de locação foi transparente e eficiente. Recomendo a Loja A sem hesitar!"
   },
   {
-    "Loja": 2,
-    "Nota": 3,
-    "Avaliação": "A experiência foi mediana. O carro atendeu às minhas necessidades, mas o preço poderia ser melhor."
+    "Loja": "Loja B",
+    "Nota": 10,
+    "Avaliação": "A Loja B me surpreendeu positivamente! O atendimento foi excelente, com uma equipe atenciosa e prestativa. O processo de locação foi rápido e sem complicações, e o carro estava limpo, bem conservado e com todas as funcionalidades funcionando perfeitamente. A devolução também foi tranquila e eficiente. Recomendo a Loja B para quem busca uma experiência de locação de veículos tranquila e satisfatória."
   },
   {
-    "Loja": 3,
-    "Nota": 2,
-    "Avaliação": "O carro estava com alguns arranhões e o processo de locação foi um pouco demorado."
+    "Loja": "Loja B",
+    "Nota": 10,
+    "Avaliação": "Tive uma experiência excepcional na Loja B! O atendimento foi personalizado e de alta qualidade. A equipe demonstrou conhecimento e profissionalismo, esclarecendo todas as minhas dúvidas e garantindo que eu escolhesse o carro ideal para minhas necessidades. O veículo estava em excelentes condições, e o processo de locação foi transparente e eficiente. Recomendo a Loja B a todos que buscam um serviço de locação de veículos de primeira linha."
   },
   {
-    "Loja": 1,
-    "Nota": 5,
-    "Avaliação": "Recomendo esta loja! O carro era econômico e o atendimento foi impecável."
+    "Loja": "Loja A",
+    "Nota": 10,
+    "Avaliação": "A Loja A se destaca pela excelência em todos os aspectos! O atendimento é impecável, com uma equipe que vai além para garantir a satisfação do cliente. O processo de locação é rápido, transparente e sem burocracias. Os carros são novos, bem conservados e equipados com tecnologia de ponta. A experiência de locação na Loja A foi simplesmente perfeita!"
   },
   {
-    "Loja": 2,
+    "Loja": "Loja B",
     "Nota": 1,
-    "Avaliação": "Péssimo serviço! O carro quebrou no meio da viagem e a loja não ofereceu nenhum suporte."
+    "Avaliação": "Tive uma experiência péssima na Loja B. O atendimento foi extremamente rude e desrespeitoso. O carro que aluguei estava sujo, com mau cheiro e apresentava diversos problemas mecânicos. O processo de locação foi confuso e cheio de taxas escondidas. A devolução foi um pesadelo, com a equipe tentando me cobrar por danos inexistentes. Não recomendo a Loja B a ninguém!" 
   },
   {
-    "Loja": 3,
-    "Nota": 4,
-    "Avaliação": "O carro era confortável e o processo de locação foi rápido e fácil."
-  },
-  {
-    "Loja": 1,
-    "Nota": 2,
-    "Avaliação": "O atendimento foi desorganizado e o carro estava com o tanque de combustível quase vazio."
-  },
-  {
-    "Loja": 2,
-    "Nota": 3,
-    "Avaliação": "A experiência foi ok. O carro atendeu às minhas necessidades, mas o preço poderia ser mais competitivo."
-  },
-  {
-    "Loja": 3,
-    "Nota": 5,
-    "Avaliação": "Adorei o carro! Era novo, moderno e muito confortável. O atendimento também foi excelente."
-  },
-  {
-    "Loja": 1,
-    "Nota": 4,
-    "Avaliação": "O carro era econômico e o processo de devolução foi rápido e fácil."
-  },
-  {
-    "Loja": 2,
-    "Nota": 2,
-    "Avaliação": "O carro apresentava alguns problemas mecânicos e o atendimento foi desatencioso."
-  }, 
-  {
-    "Loja": 3,
-    "Nota": 3,
-    "Avaliação": "O carro atendeu às minhas necessidades básicas, mas a localização da loja é um pouco inconveniente."
-  },
-  {
-    "Loja": 1,
-    "Nota": 5,
-    "Avaliação": "Excelente experiência! O carro estava impecável e o atendimento foi excepcional."
-  },
-  {
-    "Loja": 2,
-    "Nota": 4,
-    "Avaliação": "O carro era espaçoso e confortável, ideal para minha família."
-  },
-  {
-    "Loja": 3,
+    "Loja": "Loja A",
     "Nota": 1,
-    "Avaliação": "Fiquei muito decepcionado com o serviço. O carro estava sujo e com mau cheiro. Não recomendo esta loja."
+    "Avaliação": "A Loja A foi uma grande decepção. O atendimento foi péssimo, com uma equipe desinteressada e pouco profissional. O carro que aluguei estava em péssimas condições, com a lataria amassada, o interior sujo e diversos problemas mecânicos. O processo de locação foi lento e burocrático, e a devolução foi igualmente frustrante. Não recomendo a Loja A a ninguém!"
   },
   {
-    "Loja": 1,
-    "Nota": 3,
-    "Avaliação": "O carro estava um pouco velho, mas funcionou bem durante a viagem." 
+    "Loja": "Loja B",
+    "Nota": 1,
+    "Avaliação": "Minha experiência na Loja B foi um verdadeiro desastre. O atendimento foi horrível, com uma equipe despreparada e grosseira. O carro que aluguei estava velho, sujo e com diversos problemas mecânicos. O processo de locação foi confuso e cheio de taxas escondidas. A devolução foi um pesadelo, com a equipe tentando me cobrar por danos que eu não causei. Não recomendo a Loja B a ninguém!"
   },
   {
-    "Loja": 2,
-    "Nota": 5,
-    "Avaliação": "Recomendo esta loja! O carro era perfeito para minha viagem e o atendimento foi excepcional."
+    "Loja": "Loja A",
+    "Nota": 1,
+    "Avaliação": "A Loja A foi a pior experiência de locação de veículos que já tive. O atendimento foi péssimo, com uma equipe desrespeitosa e incompetente. O carro que aluguei estava em péssimas condições, com a lataria arranhada, o interior sujo e diversos problemas mecânicos. O processo de locação foi lento e burocrático, e a devolução foi igualmente frustrante. Não recomendo a Loja A a ninguém!"
   },
   {
-    "Loja": 3,
-    "Nota": 2,
-    "Avaliação": "O tempo de espera para retirar o carro foi muito longo. O atendimento deixou a desejar."
+    "Loja": "Loja B",
+    "Nota": 1,
+    "Avaliação": "A Loja B foi uma experiência para esquecer. O atendimento foi horrível, com uma equipe mal-educada e despreparada. O carro que aluguei estava em péssimas condições, com a lataria amassada, o interior sujo e diversos problemas mecânicos. O processo de locação foi confuso e cheio de taxas escondidas. A devolução foi um pesadelo, com a equipe tentando me cobrar por danos inexistentes. Não recomendo a Loja B a ninguém!"
   }
 ]
